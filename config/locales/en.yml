@@ -1,0 +1,6 @@
+---
+en:
+  spree:
+    shipping_methods_info:
+      delivery_time: Delivery Time
+      return_conditions: Return Conditions

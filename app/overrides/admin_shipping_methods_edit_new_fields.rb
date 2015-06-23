@@ -1,5 +1,5 @@
 Deface::Override.new(
-  virtual_path:  'spree/admin/shipping_methods/form',
+  virtual_path:  'spree/admin/shipping_methods/_form',
   name:          'add_new_fields_shipping_methods_edit',
   insert_bottom: '[data-hook="admin_shipping_method_form_fields"]',
   text:          "
